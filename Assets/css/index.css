@@ -68,11 +68,12 @@ body{
 
 .fa-plus:hover{
 	transform: scale(1.5);
+	color: orange;
 }
 
 
 span{
-	background: orange;
+	background: tomato;
 	display: inline-block;
 	color: white;
 	width: 0;
