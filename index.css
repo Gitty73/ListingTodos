@@ -13,6 +13,7 @@ input{
 	font-size: 18px;
 	color: #29809b;
 	border: 3px solid rgba(0,0,0,0);
+	display: none;
 }
 
 input:focus{
@@ -70,7 +71,6 @@ body{
 	transform: scale(1.5);
 	color: orange;
 }
-
 
 span{
 	background: tomato;
